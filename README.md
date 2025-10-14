@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=sonikf&count_private=true&show_icons=true&theme=white)
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=sonikf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>

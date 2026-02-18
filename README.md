@@ -1,9 +1,10 @@
 ### Hi there 
 <!--
-**sonikf/sonikf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [**sonikf/sonikf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+](https://github-stats-extended.vercel.app/frontend)
 
 Here are some ideas to get you started:
-
+- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sonikf&langs_count=5&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=5&theme=vue-dark)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sonikf)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sonikf&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vue-dark)
 

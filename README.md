@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sonikf)](https://github.com/stats-organization/github-stats-extended)
 
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=sonikf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-</p>
